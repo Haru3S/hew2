@@ -54,7 +54,7 @@ If you have an idea for the resourcepack suggest it in the [GitHub Dicussions](h
 ***
 
 ## License
-<a href="https://github.com/Haru3S/hew2">Haru's Enhanced Weather2</a> © 2022 by <a href="https://creativecommons.org">Rayna Caelum</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
+<a href="https://github.com/Haru3S/hew2">Haru's Enhanced Weather2</a> © 2026 by <a href="https://creativecommons.org">Rayna</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
 
 ***
 
